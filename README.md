@@ -61,10 +61,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulkumar7189&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar7189&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar7189&show_icons=true&theme=dracula&hide_border=true" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar7189&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -77,6 +77,6 @@ Looking to collaborate on open-source ML/CV projects, innovative AI applications
 
 <br>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rahulkumar7189&icon=1&color=6" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulkumar7189&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
