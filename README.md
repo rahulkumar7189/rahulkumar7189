@@ -62,8 +62,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar7189&show_icons=true&theme=dracula&hide_border=true" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar7189&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=rahulkumar7189&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar7189&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
