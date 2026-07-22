@@ -1,4 +1,6 @@
-#                                                                   Hi there, I'm Rahul Kumar 👋
+<div align="center">
+  <h1>Hi there, I'm Rahul Kumar 👋</h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
