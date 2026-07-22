@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar7189&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumar7189&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
