@@ -65,10 +65,6 @@
   <img src="https://streak-stats.demolab.com/?user=rahulkumar7189&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumar7189&theme=dracula" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect
