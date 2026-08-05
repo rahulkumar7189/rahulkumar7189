@@ -53,13 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rahulkumar7189&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect
