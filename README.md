@@ -65,5 +65,5 @@ Looking to collaborate on open-source ML/CV projects, innovative AI applications
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumar7189&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Today's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rahulkumar7189&label=Today's%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Today's Profile Views" />
 </p>
