@@ -15,6 +15,7 @@
 
 ### 💫 About Me
 
+
 - 🎓 Pursuing my **B.Tech in Computer Science Engineering (Specialization in AI & ML)**.
 - 🚀 Currently focused on **deep learning architectures, real-time object detection**, and integrating machine learning models into production-ready web and mobile applications.
 - 💻 **What I'm building:** Continuously expanding my portfolio with projects like **TalentScout** (an intelligent hiring assistant chatbot), **Atmos** (a sleek weather application), and robust MVC-architecture platforms like a **Supermarket Management System** in Java.
